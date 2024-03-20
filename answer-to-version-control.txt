@@ -1,0 +1,12 @@
+2. Version control
+You work in the scrum team and last sprint you did a few bug fixes at a website. They've been tested
+and approved, so you've now been asked to put the fixes on production.
+• The version now on production is '1.3.8'.
+• Your work is in the git branch 'release/1.3.x'.
+• You'll find out that someone from another team has also done commits in this branch, but
+they're not allowed to live yet.
+
+Describe what you would do to get your code right on production.
+
+Answer:
+I haven't personally experienced this since I haven't worked in a team yet, but I do have some knowledge of Git and Gitflow. It seems like the best course of action here would be to either wait for the other team's code to be retested in the release branch, or if my commits are urgently needed in production, we can simply CherryPick my commits to Production.
