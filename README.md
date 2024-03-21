@@ -7,4 +7,6 @@ This repository contains my solutions for the CHANZ IT Backend Assignment. Each 
 2. **answer-to-version-control.txt:** Contains my answer for Task Number 2.
 3. **Words-to-Numbers-Converter:** Contains my solution for Task Number 3, which is a folder named "Words-to-Numbers-Converter".
 
+Please kindly run my 'Words-to-Numbers-Converter' using XAMPP or another tool to run the app locally.
+
 Feel free to explore the respective files and folder for the solutions to each task.
